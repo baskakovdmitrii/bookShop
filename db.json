@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "257f4e02-4cf0-48c3-973f-226d43f1103f",
+      "name": "Тайна последнего предсказания",
+      "author": "Оксана Пелевина",
+      "genre": "Русское фэнтези",
+      "yearOfPublishing": "2023",
+      "price": "550",
+      "cover": "/img/foto5.cbc5f90a.jpg"
+    },
+    {
+      "id": "364d53c9-2666-4012-a16c-fbe8d42472ba",
+      "name": "Восстание клана Чан",
+      "author": "Тянься Гуйюань",
+      "genre": "Зарубежное фэнтези",
+      "yearOfPublishing": "2021",
+      "price": "650",
+      "cover": "/img/foto1.7fb1cea4.jpg"
+    },
+    {
+      "id": "40de4d27-c338-4712-8210-dc385b66adbb",
+      "name": "Цзюнь Цзюлин",
+      "author": "Си Син",
+      "genre": "Зарубежное фэнтези",
+      "yearOfPublishing": "2023",
+      "price": "950",
+      "cover": "/img/foto2.d4d1c47e.jpg"
+    },
+    {
+      "id": "bcbf8642-3484-4b97-b488-95b275058904",
+      "name": "Мертвая тишина",
+      "author": "Александр Тамоников",
+      "genre": "Русские боевики",
+      "yearOfPublishing": "2022",
+      "price": "400",
+      "cover": "/img/foto4.d8064a43.jpg"
+    }
+  ]
+}
