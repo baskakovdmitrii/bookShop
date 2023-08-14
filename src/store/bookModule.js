@@ -5,7 +5,7 @@ import {getRandomImage} from "@/directives/getRandomImage";
 export const bookModule = {
     state: () => ({
         books: [],
-        isPostsLoading:false,
+        isBooksLoading:false,
         selectedSort: '',
         searchQuery: '',
         selectedGenre: '',
