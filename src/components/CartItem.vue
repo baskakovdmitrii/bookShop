@@ -1,19 +1,4 @@
 <template>
-<!--  <div class="cart-item">-->
-<!--    <div class="cart-item__image">-->
-<!--      <img :src="book.cover" width="80" height="112">-->
-<!--    </div>-->
-<!--    <div class="cart-item__info">-->
-<!--      <h2>{{ book.name }}</h2>-->
-<!--      <p>{{ book.author }}</p>-->
-<!--      <p>{{ book.genre }}</p>-->
-<!--      <p>{{ book.yearOfPublishing }}</p>-->
-<!--      <p>Количество: {{ book.quantity }}</p>-->
-<!--      <p>Цена: {{ book.price }}₽</p>-->
-<!--      <p>Общая стоимость: {{ total }}₽</p>-->
-<!--      <base-button @click="removeFromCart(book)">Удалить</base-button>-->
-<!--    </div>-->
-<!--  </div>-->
   <div class="book">
     <div class="wrapper">
       <div class="product-img">
